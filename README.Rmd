@@ -24,7 +24,7 @@ Provides a function to calculate the mean of all numeric columns in a dataset, g
 
 You can install the development version of groupmeans from [GitHub](https://github.com/) with:
 
-``` {r}
+``` r
 # install.packages("devtools")
 devtools::install_github("stat545ubc-2024/groupmeans")
 ```

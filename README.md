@@ -17,29 +17,6 @@ You can install the development version of groupmeans from
 ``` r
 # install.packages("devtools")
 devtools::install_github("stat545ubc-2024/groupmeans")
-#> Using GitHub PAT from the git credential store.
-#> Downloading GitHub repo stat545ubc-2024/groupmeans@HEAD
-#> glue  (1.7.0 -> 1.8.0) [CRAN]
-#> withr (3.0.1 -> 3.0.2) [CRAN]
-#> Installing 2 packages: glue, withr
-#> Installing packages into 'C:/Users/86156/AppData/Local/Temp/Rtmpmqi8uj/temp_libpath70c54791285'
-#> (as 'lib' is unspecified)
-#> package 'glue' successfully unpacked and MD5 sums checked
-#> package 'withr' successfully unpacked and MD5 sums checked
-#> 
-#> The downloaded binary packages are in
-#>  C:\Users\86156\AppData\Local\Temp\RtmpWcIPji\downloaded_packages
-#> ── R CMD build ─────────────────────────────────────────────────────────────────
-#>          checking for file 'C:\Users\86156\AppData\Local\Temp\RtmpWcIPji\remotes4ebc7a2d866\stat545ubc-2024-groupmeans-915e49d/DESCRIPTION' ...  ✔  checking for file 'C:\Users\86156\AppData\Local\Temp\RtmpWcIPji\remotes4ebc7a2d866\stat545ubc-2024-groupmeans-915e49d/DESCRIPTION'
-#>       ─  preparing 'groupmeans':
-#>    checking DESCRIPTION meta-information ...     checking DESCRIPTION meta-information ...   ✔  checking DESCRIPTION meta-information
-#>       ─  checking for LF line-endings in source and make files and shell scripts
-#>       ─  checking for empty or unneeded directories
-#>       ─  building 'groupmeans_0.1.0.tar.gz'
-#>      
-#> 
-#> Installing package into 'C:/Users/86156/AppData/Local/Temp/Rtmpmqi8uj/temp_libpath70c54791285'
-#> (as 'lib' is unspecified)
 ```
 
 ## Example

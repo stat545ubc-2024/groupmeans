@@ -1,0 +1,5 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^groupmeans\.Rproj$
+^LICENSE\.md$
+^README\.Rmd$
